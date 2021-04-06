@@ -24,7 +24,7 @@ def count():
     print('Now I will prove to you that I can count to any number you want.')
     num = int(input())
     for i in range(0,num+1):
-        print(num, '!')
+        print(i, '!')
 
 
 def test():
